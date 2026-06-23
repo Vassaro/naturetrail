@@ -1,0 +1,26 @@
+site_name: Naturnäran
+
+docs_dir: ./docs
+site_dir: ../docs
+
+repo_url: https://github.com/vassaro/naturetrail
+
+nav:
+  - Hem: index.md
+
+theme:
+  name: material
+  logo: img/vassaro_logga_inv.png
+  favicon: img/favicon.ico
+  language: sv
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - glightbox
