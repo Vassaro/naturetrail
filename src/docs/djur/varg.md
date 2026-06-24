@@ -6,5 +6,6 @@ hide:
 
 # Varg
 
-![type:audio](../audio/varg.mp3)
-
+<figure>
+  <audio controls src="../../audio/varg.mp3"></audio>
+</figure>

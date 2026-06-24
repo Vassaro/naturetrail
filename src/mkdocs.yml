@@ -5,10 +5,6 @@ site_dir: ../docs
 
 repo_url: https://github.com/vassaro/naturetrail
 
-hide:
-  - navigation
-  - toc
-
 theme:
   name: material
   logo: img/vassaro_logga_inv.png
