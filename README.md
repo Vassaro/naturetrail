@@ -1,6 +1,6 @@
 # naturetrail
 
-Webbsidor, ljudfiler och qr-koder för Vässarös naturspår "Naturnäran". Navigationen är bortplockad för att göra sidan "enkel", men det finns en hemlig [https://vassaro.github.io/naturetrail/nav/](innehållsförteckning).
+Webbsidor, ljudfiler och qr-koder för Vässarös naturspår "Naturnäran". Navigationen är bortplockad för att göra sidan "enkel", men det finns en hemlig [innehållsförteckning]([innehållsförteckning](https://vassaro.github.io/naturetrail/nav/).
 
 ## För att bidra:
 
